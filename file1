@@ -6,3 +6,5 @@ drwxr-xr-x  7 chris  staff       224 11 mei 09:08 ..
 -rw-r--r--@ 1 chris  staff     10074 11 mei 09:08 [000]_Log_Git_leren.rtf
 drwxr-xr-x  3 chris  staff        96 11 mei 09:08 git2github
 drwxr-xr-x  8 chris  staff       256 10 mei 17:01 my_git_project
+
+bovenstaande is natuurlijk gewoon het resultaat van een $ ls -l > file1 ;-)
